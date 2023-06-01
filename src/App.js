@@ -2,7 +2,7 @@ import {useState} from 'react';
 import './App.css';
 
 
-// prop ddrilling-- passing state into different components to reach the 
+// prop drilling-- passing state into different components to reach the 
 //child component that needs the state.
 
 function App() {
